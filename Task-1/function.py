@@ -1,0 +1,2 @@
+# A Function is a block of code to carry out a specific task, it will contain it's own scope and is called by name. All Functions may either
+# contain no arguments, or may contain more than one arguments. On Exit, a function can/can not return one or more values.
